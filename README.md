@@ -1,25 +1,29 @@
-### Hi there 👋, My name is Masum 
-#### In the future ,I want to be a "Machine Learning Engineer"
-![In the future ,I want to be a "Machine Learning Engineer"](https://media.licdn.com/dms/image/C4D16AQHMhmaY1lsyEw/profile-displaybackgroundimage-shrink_350_1400/0/1659028508345?e=1695254400&v=beta&t=7aYsPukr6CFCCBLfZueBsfh3-Ea1_wGmrvZsGbig4qw)
+<h1 align="center">Hi 👋, I'm Masum</h1>
+<h3 align="center">From Raw Data to Clear Insights | Data Analysis • Insights • Visualization | Turning Data Into Actionable Decisions</h3>
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjzVNx2MkwMU-r94KgdngFhf6V0kehAmzupQ&s" >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masum100&label=Profile%20views&color=0e75b6&style=flat" alt="masum100" /> </p>
 
-To achieve a high level of professional excellence through consistent commitment and implementation of knowledge and skills that will ultimately lead to the achievement of personal and organizational goals.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masum100" alt="masum100" /></a> </p>
 
-Skills: Skills: Python / Machine Learning / Deep Learning / Java/ html
+<p align="left"> <a href="https://twitter.com/@masumislam241" target="blank"><img src="https://img.shields.io/twitter/follow/@masumislam241?logo=twitter&style=for-the-badge" alt="@masumislam241" /></a> </p>
 
-- 🔭 I’m currently working on Machine Learning Project 
-- 🌱 I’m currently learning Deep Learning 
-- 💬 Ask me about  Python ,Machine Learning 
-- 📫 How to reach me: masumislam.info.cmt@gmail.com 
-- ⚡ Fun fact: Funny man 
+- 🌱 I’m currently learning **Data Analysis with Python and SQL**
 
+- 💬 Ask me about **Ask me about data cleaning, basic analytics, and visualization.**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/masum100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/masum-islam99//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/masum.islam99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/m_a_s_u_m_b_i_l_l_a_h//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/masumislam241)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/billahmasum)  
+- 📫 How to reach me **hellomasum42@gmail.com**
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@masumislam241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@masumislam241" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/masumcst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masumcst" height="30" width="40" /></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/masum100)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/masum100)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masum100&show_icons=true&locale=en&layout=compact" alt="masum100" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/masum100)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masum100&show_icons=true&locale=en" alt="masum100" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masum100&" alt="masum100" /></p>
